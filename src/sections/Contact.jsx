@@ -23,7 +23,7 @@ const CONTACT_LINKS = [
     href: "https://github.com/NivethithaE", // ⬅️ REPLACE with your actual GitHub username
     icon: Github, 
     color: "text-pink-400", 
-    handle: "yourusername"
+    handle: "NIVETHITHA E"
   },
   { 
     name: "Phone", 
