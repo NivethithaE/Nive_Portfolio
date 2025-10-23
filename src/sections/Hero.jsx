@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../assets/image3.jpg';
+import profileImage from '../assets/image.jpg';
 import { Download, ChevronRight } from 'lucide-react';
 
 const Hero = () => {
@@ -42,8 +42,8 @@ const Hero = () => {
           </a>
 
           <a 
-            href="/Nivethitha -Resume.pdf"
-            download="Nivethitha_Resume.pdf"
+            href="/Nivethitha _Resume.pdf"
+            download="Nivethitha _Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-3 border border-gray-600 text-gray-300 font-medium rounded-lg hover:bg-gray-800 hover:text-white transition-all duration-300"
