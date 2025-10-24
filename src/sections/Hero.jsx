@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../assets/image3.jpg';
+import profileImage from '../assets/image4.png';
 import { Download, ChevronRight } from 'lucide-react';
 
 const Hero = () => {
