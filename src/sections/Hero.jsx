@@ -42,8 +42,8 @@ const Hero = () => {
           </a>
 
           <a 
-            href="/Nivethitha _Resume.pdf"
-            download="Nivethitha _Resume.pdf"
+            href="/Nivethitha_resume.pdf"
+            download="Nivethitha_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-3 border border-gray-600 text-gray-300 font-medium rounded-lg hover:bg-gray-800 hover:text-white transition-all duration-300"

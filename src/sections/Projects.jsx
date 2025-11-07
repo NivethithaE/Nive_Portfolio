@@ -33,10 +33,19 @@ const PROJECTS_DATA = [
     description:
       "A modern, responsive portfolio website designed and developed using React and Tailwind CSS. It showcases my technical projects, skills, and professional journey — representing both my Full Stack and Data Analytics expertise.",
     techStack: ["React", "Tailwind CSS", "Vercel", "Framer Motion"],
-    githubLink: "https://github.com/NivethithaE/portfolio", // your repo name
+    githubLink: "https://github.com/NivethithaE/Nive_Portfolio", // your repo name
     liveLink: "https://nivethitha-portfolio.vercel.app/", // replace with your actual deployed link
     demoType: "Portfolio",
   },
+  {
+  title: "Gesture-Controlled Presentation System",
+  description:
+    "An interactive system that enables users to control PowerPoint presentations using hand gestures. Built with Python, OpenCV, and MediaPipe, it recognizes gestures like 'Swipe' for next slide and 'Thumbs Up' for previous slide — creating a hands-free, futuristic presentation experience.",
+  techStack: ["Python", "OpenCV", "MediaPipe", "PyAutoGUI"],
+  githubLink: "https://github.com/NivethithaE/Gesture-Presentation", // replace with your actual repo link
+  liveLink: "",
+  demoType: "Computer Vision Project",
+},
 ];
 
 const Projects = () => {

@@ -43,8 +43,8 @@ const Navbar = () => {
 
           {/* Resume Button for Desktop */}
           <a 
-            href="/Nivethitha -Resume.pdf"  // ✅ File inside public folder
-            download="Nivethitha_Resume.pdf"
+            href="/Nivethitha_resume.pdf"  // ✅ File inside public folder
+            download="Nivethitha_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 bg-teal-600 text-white font-semibold rounded-lg shadow-md hover:bg-teal-500 transition-colors"
@@ -81,8 +81,8 @@ const Navbar = () => {
 
           {/* Resume Button for Mobile */}
           <a 
-            href="/Nivethitha -Resume.pdf"  // ✅ File inside public folder
-            download="Nivethitha_Resume.pdf"
+            href="/Nivethitha_resume.pdf"  // ✅ File inside public folder
+            download="Nivethitha_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-4 px-4 py-2 text-center bg-teal-600 text-white font-semibold rounded-lg shadow-md hover:bg-teal-500 transition-colors"
